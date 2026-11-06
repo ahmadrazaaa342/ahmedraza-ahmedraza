@@ -101,57 +101,47 @@ Git, GitHub, VS Code, npm, pnpm, ESLint, Prettier, Jira, Figma, Agile, Scrum, Co
 
 ---
 
-🚀 Featured Projects & Engineering Work
+## 🚀 Featured Projects & Engineering Work
 
-1. LaunchBoom – Crowdfunding & Marketing Automation
+### 1. LaunchBoom – Crowdfunding & Marketing Automation
 
-Website
+[Website](https://www.launchboom.com)
 
 Developed marketing automation workflows connecting presale leads, email campaigns, funnel data, and Shopify activity through third-party APIs.
 
-Automated lead qualification and campaign reporting.
+- Automated lead qualification and campaign reporting.
+- Integrated Shopify activity and marketing data.
+- Developed reporting for ROAS, VIP signups, and crowdfunding progress.
+- Connected multiple services to streamline marketing operations.
 
-Integrated Shopify activity and marketing data.
+**Technologies:** Python, Node.js, REST APIs, Shopify APIs, Marketing Automation, Data Integration.
 
-Developed reporting for ROAS, VIP signups, and crowdfunding progress.
+### 2. Convert – A/B Testing & Personalization SaaS
 
-Connected multiple services to streamline marketing operations.
-
-Technologies: Python, Node.js, REST APIs, Shopify APIs, Marketing Automation, Data Integration.
-
-2. Convert – A/B Testing & Personalization SaaS
-
-Website
+[Website](https://www.convert.com)
 
 Contributed to experimentation and personalization functionality across backend and frontend systems.
 
-Developed server-side experimentation features through the Python SDK.
+- Developed server-side experimentation features through the Python SDK.
+- Worked on experiment variation assignment and conversion tracking.
+- Implemented React and TypeScript interfaces for experiment management.
+- Supported event processing, analytics, statistical reporting, and migration tools.
+- Contributed to scalable backend services for experimentation workflows.
 
-Worked on experiment variation assignment and conversion tracking.
+**Technologies:** Python, JavaScript, TypeScript, React, Node.js, REST APIs, SDK Development.
 
-Implemented React and TypeScript interfaces for experiment management.
+### 3. Dealership Performance 360 – Automotive CRM
 
-Supported event processing, analytics, statistical reporting, and migration tools.
-
-Contributed to scalable backend services for experimentation workflows.
-
-Technologies: Python, JavaScript, TypeScript, React, Node.js, REST APIs, SDK Development.
-
-3. Dealership Performance 360 – Automotive CRM
-
-Website
+[Website](https://www.dealershipperformancecrm.com)
 
 Developed CRM APIs and integrations supporting dealership operations, lead management, and performance reporting.
 
-Designed APIs for leads, opportunities, follow-ups, and staff management.
+- Designed APIs for leads, opportunities, follow-ups, and staff management.
+- Integrated AI-assisted replies and communication workflows.
+- Connected email, SMS, telephony, and dealership-system data.
+- Supported reporting dashboards and lead automation.
 
-Integrated AI-assisted replies and communication workflows.
-
-Connected email, SMS, telephony, and dealership-system data.
-
-Supported reporting dashboards and lead automation.
-
-Technologies: Node.js, REST APIs, Python, AI Integrations, CRM, Database Management, Third-Party APIs.
+**Technologies:** Node.js, REST APIs, Python, AI Integrations, CRM, Database Management, Third-Party APIs.
 
 ----
 
